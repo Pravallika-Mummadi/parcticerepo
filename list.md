@@ -22,7 +22,7 @@
 Lets go to amazon <https://www.amazon.com> 
 
 
-![Screenshot1](C:\Users\S555592\Pictures\Screenshots)
+![image](C:\Users\S555592\Pictures\Screenshots)
 
 I want to ride the merry_go_round is 
 different to the merry\_go\_round.
