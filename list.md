@@ -26,3 +26,20 @@ Lets go to amazon <https://www.amazon.com>
 
 I want to ride the merry_go_round is 
 different to the merry\_go\_round.
+
+This is a truth table
+| P | Q | P and Q |
+| :--- | :---:| ---: |
+| 1.0  | T | T |
+| T | F | F |
+| F | T | F |
+| F motreeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee | F | F |
+lots of words
+
+- [ ] item 1
+- [x] item 2 (it’s done!)
+- [] item 3
+
+~~Opps, didn’t mean to do this.~~
+
+The function is $f(x) = x^2+43/45(y^x)-v<sub>5+(y<sup>6)$
