@@ -46,4 +46,5 @@ again
 ~~Opps, didn’t mean to do this.~~
 
 The function is $f(x) = x^2+43/45(y^x)-v<sub>5+(y<sup>6)$
-   $f(x) = x^2$
+   
+   the funtion $f(x) = x^2$
